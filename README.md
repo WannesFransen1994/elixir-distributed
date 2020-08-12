@@ -26,3 +26,7 @@ Thanks to [Frederic Vogels](https://github.com/fvogels) for checking, creating a
 These exercises were originally created for the course Distributed Applications at [UCLL](https://www.ucll.be/). Most of this content is thus sponsored by UCLL.
 
 Extra thanks to every contributor, student and the Elixir community.
+
+## Note
+
+This project is part of the [elixir learning materials](https://github.com/WannesFransen1994/elixir-learning-materials) repository.
