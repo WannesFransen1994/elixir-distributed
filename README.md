@@ -13,8 +13,6 @@ In this course we'll cover the distributed aspects of Elixir. We assume that you
 
 ## Roadmap / missing topics
 
-TODO: Short paragraph to explain how people can add a topic.
-
 - [ ] Kafka
 - [ ] Kubernetes
 - [ ] Node takeover / failover?
